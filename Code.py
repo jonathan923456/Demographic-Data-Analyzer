@@ -5,7 +5,7 @@ import numpy as np
 
 
 # Read data from file
-df = pd.read_csv("C:/Users/Jonathan/Desktop/Python/Freecodecamp/Demographic_data_analyzer/adult.data.csv")
+df = pd.read_csv("adult.data.csv")
 #df.head()
 
 # How many of each race are represented in this dataset? This should be a Pandas series with race names as the index labels.
